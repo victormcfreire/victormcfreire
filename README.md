@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Desenvolvedor Fullstack com **+4 anos de experiência** criando aplicações escaláveis e liderando equipes técnicas.
+Desenvolvedor Fullstack com **+4 anos de experiência** criando aplicações escaláveis e garantindo qualidade e entregas contínuas.
 
 Especializado em **Flutter**, **Angular** e **Java/Spring Boot**, com foco em arquitetura limpa, performance e excelência na experiência do usuário. Atualmente atuando como **Front-end Tech Lead** na Solução Sistemas, entregando soluções para o setor de varejo e alimentação.
 
@@ -66,8 +66,7 @@ Especializado em **Flutter**, **Angular** e **Java/Spring Boot**, com foco em ar
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victormcfreire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormcfreire&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victormcfreire&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -81,7 +80,7 @@ Especializado em **Flutter**, **Angular** e **Java/Spring Boot**, com foco em ar
 ```
 💼 Front-end Developer      →  Solução Sistemas       (jun/2025 – atual)
 📱 Flutter Developer        →  Solução Sistemas       (abr/2024 – jun/2025)
-⚙️  Fullstack Java/Angular  →  Solução Sistemas       (fev/2023 – abr/2024)
+⚙️ Fullstack Java/Angular  →  Solução Sistemas       (fev/2023 – abr/2024)
 ```
 
 ---
